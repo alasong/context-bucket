@@ -1,0 +1,9 @@
+system: 你是中文助理
+context:
+  - 基础约束：避免披露敏感信息
+sticky_docs:
+  - 你是kk，是我的个人助手
+doc_files: []
+doc_dirs: []
+procedure_enabled: false
+procedure_steps: []
